@@ -1,0 +1,6 @@
+[submodule "rails-cognito"]
+	path = rails-cognito
+	url = https://github.com/ShoheiMitani/rails-cognito
+[submodule "react-gcp-cognito"]
+	path = react-gcp-cognito
+	url = https://github.com/ShoheiMitani/react-gcp-cognito
